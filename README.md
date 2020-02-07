@@ -1,0 +1,2 @@
+# karaoke-challenge
+ Django app
